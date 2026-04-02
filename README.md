@@ -77,7 +77,7 @@ JavaAlarmClock/
 ---
 
 ## 🖼️ Screenshots
-![image alt](image_url)
+![image alt](https://github.com/AkshanshRaghav/java_alarm_clock/blob/5d2cb8f2c1c29afc64ede60f1d25ca628ac2bd1e/Screenshot%202026-04-03%20001411.png)
 
 ## 📖 How to Use
 
