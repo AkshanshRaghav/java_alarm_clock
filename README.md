@@ -7,7 +7,7 @@ A simple and functional **Alarm Clock application** built using **Java**, featur
 ## 📌 Features
 
 - 🕐 Real-time digital clock display
-- ⏰ Set one
+- ⏰ Set one time 
 - 🔔 Sound notification when alarm triggers
 - ✅ Enable / Disable alarms
 - 🖥️ Simple and clean GUI (Swing / JavaFX)
@@ -83,7 +83,7 @@ JavaAlarmClock/
 
 1. Launch the application.
 2. The current time will be displayed on the main screen.
-3. Enter the desired alarm time in `HH:MM:SS` format.
+3. Enter the desired alarm time in `HH:MM` format.
 4. Click **"Set Alarm"** to schedule it.
 5. When the time matches, the alarm will ring with a sound.
 6. Click **"Stop"** or **"Snooze"** to control the alarm.
@@ -117,7 +117,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**=Akshansh Raghav**   
+**Akshansh Raghav**   
 
 ---
 
